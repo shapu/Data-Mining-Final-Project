@@ -28,3 +28,5 @@ Instructions:
 
 At the top of the notebook file, there is a path variable in the second cell please set that 
 to the folder_name containing the-movies-dataset folder which contains all the files
+
+github link -> https://github.com/shapu/Data-Mining-Final-Project
